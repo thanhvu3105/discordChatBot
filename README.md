@@ -35,7 +35,8 @@ A simple discord bot that generate humourous memes and jokes to your server by p
   
   ![send me a meme](https://user-images.githubusercontent.com/60678586/135736543-1398afb4-14ef-45bb-af97-b58c42a74794.png)
   
-  
+  ![tell me a joke](https://user-images.githubusercontent.com/60678586/135736596-f69cb565-a6a6-414b-af0d-9ea647349ce4.png)
+
 
   
   
