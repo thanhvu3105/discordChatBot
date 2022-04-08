@@ -153,7 +153,7 @@ def chat():
 
             print(random.choice(responses))
         else:
-            print("Can't fucking understand you! Ask a real fucking question")
+            print("Can't  understand you! Ask a real  question")
 
 
 chat()
